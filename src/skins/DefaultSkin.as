@@ -53,7 +53,7 @@ package skins
             button.height = 34;
             
             button.backgroundImage = Assets.ButtonUp;
-            button.backgroundScale = [2, 2, 79, 30];
+            button.backgroundScale = [2, 2, 79, 28];
             
             /**
              * 鼠标移到上面的伪样式 

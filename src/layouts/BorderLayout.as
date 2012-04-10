@@ -1,12 +1,7 @@
 package layouts
 {
     /**
-     *一个BorderLayout对象将界面分成五大区域，分别用BorderLayout类的静态常量指定：
-     *-PAGE_START
-     *-PAGE_END
-     *-LINE_START
-     *-LINE_END
-     *-CENTER 
+     *一个BorderLayout对象将界面分成五大区域，东西南北中
      * @author shaotong.zhux
      */    
     public class BorderLayout extends Layout
